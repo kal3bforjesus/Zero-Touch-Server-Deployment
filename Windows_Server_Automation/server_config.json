@@ -1,0 +1,6 @@
+{
+    "Role": "PRIMARY",
+    "PrimaryIP": "192.168.0.100",
+    "SecondaryIP": "192.168.0.101",
+    "SyncIntervalMinutes": 10080
+}
